@@ -1,0 +1,11 @@
+The solution is 
+    -6.00000
+
+    -1.00000
+
+Time taken is    0.1148928 seconds
+
+Number of iterations is 
+
+
+Iteration          Xi        |Ea|
